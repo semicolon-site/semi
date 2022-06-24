@@ -29,10 +29,11 @@ float: left;
 
 }
 
-.header11{
-  width: 130px;
 
-float: left;
+.header11{
+  margin: 0 auto;
+
+  width: 190px;
 }
 
 
